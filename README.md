@@ -9,4 +9,4 @@ A program to implement facial recognition.
 * Recognition Rate: 95.5 %
 
 ## Operating Method
-* Run Demo.m file.
+* Run Demo.m.
